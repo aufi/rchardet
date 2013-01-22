@@ -219,7 +219,7 @@ Latin2HungarianModel = {
 Win1250HungarianModel = { 
   'charToOrderMap' =>  Win1250HungarianCharToOrderMap,
   'precedenceMatrix' =>  HungarianLangModel,
-  'mTypicalPositiveRatio' =>  0.947368,
+  'mTypicalPositiveRatio' =>  0.937368,
   'keepEnglishLetter' =>  true,
   'charsetName' =>  "windows-1250"
 }
